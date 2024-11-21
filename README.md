@@ -1,50 +1,51 @@
+Berikut adalah **README.md** yang telah diperbarui dengan ikon-ikon menarik untuk setiap bagian, termasuk teknologi yang digunakan:
 
 ---
 
 # 🌟 **INVENTORYKU** 🌟  
 Solusi Manajemen Inventaris Modern untuk Bisnis Anda  
 
-![Logo](Screenshot.png)
+![Logo](Screenshot.png)  
 
 ---
 
 ## 📚 **Navigasi**  
-- [Fitur Unggulan](#-fitur-unggulan)  
-- [Teknologi yang Digunakan](#️-teknologi-yang-digunakan)  
-- [Pratinjau Aplikasi](#️-pratinjau-aplikasi)  
-- [Cara Instalasi](#-cara-instalasi)  
-- [Struktur Database](#-struktur-database)  
-- [Kenapa Memilih INVENTORYKU?](#-kenapa-memilih-inventoryku)  
-- [Kontribusi](#-kontribusi)  
-- [Kontak](#-kontak)  
+- [✨ Fitur Unggulan](#-fitur-unggulan)  
+- [🛠️ Teknologi yang Digunakan](#️-teknologi-yang-digunakan)  
+- [🖥️ Pratinjau Aplikasi](#️-pratinjau-aplikasi)  
+- [⚙️ Cara Instalasi](#-cara-instalasi)  
+- [📋 Struktur Database](#-struktur-database)  
+- [💡 Kenapa Memilih INVENTORYKU?](#-kenapa-memilih-inventoryku)  
+- [🤝 Kontribusi](#-kontribusi)  
+- [📞 Kontak](#-kontak)  
 
 ---
 
 ## ✨ **Fitur Unggulan**  
 ### 🚀 **Dashboard Interaktif**  
-- Lihat statistik barang masuk, keluar, dan total barang dalam satu tampilan.  
-- Data ditampilkan dalam bentuk grafik dan angka real-time untuk memudahkan analisis.
+- 📊 Statistik barang masuk, keluar, dan total barang dalam satu tampilan.  
+- 🔍 Data real-time dalam bentuk grafik dan angka untuk memudahkan analisis.
 
 ### 🛒 **Manajemen Data Barang**  
-- Tambah, hapus, atau perbarui barang dengan mudah.  
-- Filter dan cari barang berdasarkan kategori, nama, atau kode barang.  
+- ➕ Tambah, 🗑️ hapus, dan ✏️ perbarui barang dengan mudah.  
+- 🔎 Filter dan cari barang berdasarkan kategori, nama, atau kode barang.  
 
 ### 📦 **Barang Masuk & Keluar**  
-- Pantau pergerakan barang masuk dan keluar untuk memastikan stok selalu terkontrol.  
+- ✅ Pantau pergerakan barang masuk dan keluar untuk memastikan stok selalu terkontrol.  
 
 ### 📜 **Riwayat Transaksi**  
-- Riwayat aktivitas barang tersimpan, memungkinkan audit yang akurat dan cepat.
+- 🗂️ Catatan transaksi tersimpan untuk audit yang cepat dan akurat.
 
 ### 🔍 **Pencarian dan Filter Canggih**  
-- Fitur pencarian yang memudahkan pengguna menemukan barang secara cepat berdasarkan atribut tertentu.  
+- 🔧 Fitur pencarian canggih untuk menemukan barang secara instan.  
 
 ---
 
 ## 🛠️ **Teknologi yang Digunakan**  
-- **Bahasa Pemrograman:** Java  
-- **Framework GUI:** Swing/JavaFX  
-- **Database:** MySQL  
-- **IDE:** NetBeans  
+- **💻 Bahasa Pemrograman:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+- **🎨 GUI Framework:** ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge) / ![JavaFX](https://img.shields.io/badge/JavaFX-8a8a8a?style=for-the-badge)  
+- **🗄️ Database:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+- **🛠️ IDE:** ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)  
 
 ---
 
@@ -88,9 +89,9 @@ Struktur tabel dan data awal tersedia dalam file `database.sql` di root director
 ---
 
 ## 💡 **Kenapa Memilih INVENTORYKU?**  
-- **Efisiensi Waktu:** Dengan antarmuka sederhana, semua data inventaris dapat diakses dengan cepat.  
-- **Akurasi Data:** Minimalkan kesalahan manual dengan pencatatan yang terstruktur.  
-- **Skalabilitas:** Dapat digunakan oleh bisnis kecil hingga besar.  
+- ⏱️ **Efisiensi Waktu:** Dengan antarmuka sederhana, semua data inventaris dapat diakses dengan cepat.  
+- ✅ **Akurasi Data:** Minimalkan kesalahan manual dengan pencatatan yang terstruktur.  
+- 📈 **Skalabilitas:** Dapat digunakan oleh bisnis kecil hingga besar.  
 
 ---
 
@@ -108,6 +109,4 @@ Jika Anda memiliki pertanyaan atau masalah terkait aplikasi, silakan hubungi kam
 
 ---
 
-Semoga aplikasi **INVENTORYKU** bermanfaat untuk bisnis Anda! 🚀  
-
---- 
+Dengan penambahan ikon, README.md terlihat lebih menarik dan profesional. Semoga bermanfaat! 🚀  
