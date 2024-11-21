@@ -49,7 +49,7 @@ Solusi Manajemen Inventaris Modern untuk Bisnis Anda
 
 ## 🛠️ **Teknologi yang Digunakan**  
 - **💻 Bahasa Pemrograman:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-- **🎨 GUI Framework:** ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge) / ![JavaFX](https://img.shields.io/badge/JavaFX-8a8a8a?style=for-the-badge)  
+- **🎨 GUI Framework:** ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)  ![JavaFX](https://img.shields.io/badge/JavaFX-8a8a8a?style=for-the-badge)  
 - **🗄️ Database:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 - **🛠️ IDE:** ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)  
 
