@@ -85,12 +85,12 @@ git clone https://github.com/iqbalhikam/INVENTORYKU.git
   - **Password:** *(kosong)*  
 
 ### Langkah 4: Jalankan Aplikasi  
-- Jalankan aplikasi langsung dari IDE atau gunakan file `.jar` yang tersedia di repository.  
+- Jalankan aplikasi langsung dari IDE.  
 
 ---
 
 ## 📋 **Struktur Database**  
-Struktur tabel dan data awal tersedia dalam file `database.sql` di root directory.  
+Struktur tabel dan data contoh tersedia dalam file `database.sql` di root directory.  
 
 ---
 
