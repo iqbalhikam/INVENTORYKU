@@ -1,4 +1,10 @@
-Berikut adalah **README.md** yang telah diperbarui dengan ikon-ikon menarik untuk setiap bagian, termasuk teknologi yang digunakan:
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaFX-8a8a8a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+</p>
 
 ---
 
@@ -62,7 +68,7 @@ Solusi Manajemen Inventaris Modern untuk Bisnis Anda
 
 ---
 
-## ⚙️ **Cara Instalasi**  
+## ⚙ **Cara Instalasi**  
 ### Langkah 1: Clone Repository  
 ```bash  
 git clone https://github.com/iqbalhikam/INVENTORYKU.git  
