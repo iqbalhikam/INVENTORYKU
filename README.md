@@ -1,5 +1,3 @@
-Berikut adalah versi **README.md** yang lebih menarik dan interaktif untuk **INVENTORYKU**:
-
 ---
 
 # 🌟 **INVENTORYKU** 🌟  
