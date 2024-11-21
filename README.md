@@ -115,4 +115,3 @@ Jika Anda memiliki pertanyaan atau masalah terkait aplikasi, silakan hubungi kam
 
 ---
 
-Dengan penambahan ikon, README.md terlihat lebih menarik dan profesional. Semoga bermanfaat! 🚀  
