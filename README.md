@@ -1,3 +1,4 @@
+
 ---
 
 # 🌟 **INVENTORYKU** 🌟  
@@ -5,7 +6,17 @@ Solusi Manajemen Inventaris Modern untuk Bisnis Anda
 
 ![Logo](Screenshot.png)
 
-**INVENTORYKU** adalah aplikasi inventaris yang dirancang untuk membantu bisnis Anda mengelola stok barang, barang masuk, barang keluar, dan informasi barang dengan mudah. Dengan antarmuka yang user-friendly dan fitur yang kaya, aplikasi ini memberikan efisiensi dalam pengelolaan data inventaris.
+---
+
+## 📚 **Navigasi**  
+- [Fitur Unggulan](#-fitur-unggulan)  
+- [Teknologi yang Digunakan](#️-teknologi-yang-digunakan)  
+- [Pratinjau Aplikasi](#️-pratinjau-aplikasi)  
+- [Cara Instalasi](#-cara-instalasi)  
+- [Struktur Database](#-struktur-database)  
+- [Kenapa Memilih INVENTORYKU?](#-kenapa-memilih-inventoryku)  
+- [Kontribusi](#-kontribusi)  
+- [Kontak](#-kontak)  
 
 ---
 
@@ -37,14 +48,15 @@ Solusi Manajemen Inventaris Modern untuk Bisnis Anda
 
 ---
 
-## 🖥️ **Pratinjau Aplikasi** 
+## 🖥️ **Pratinjau Aplikasi**  
 
-
-## **Halaman Login**  
+### **Halaman Login**  
 ![LOGIN](Login.png)  
-## **Halaman Register**  
+
+### **Halaman Register**  
 ![REGISTER](Register.png)  
-## **Halaman Utama**  
+
+### **Halaman Utama**  
 ![INVENTORYKU](Screenshot.png)  
 
 ---
@@ -99,5 +111,3 @@ Jika Anda memiliki pertanyaan atau masalah terkait aplikasi, silakan hubungi kam
 Semoga aplikasi **INVENTORYKU** bermanfaat untuk bisnis Anda! 🚀  
 
 --- 
-
-Jika Anda memiliki ide tambahan, beri tahu saya! 😊
