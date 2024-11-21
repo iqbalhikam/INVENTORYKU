@@ -37,7 +37,11 @@ Solusi Manajemen Inventaris Modern untuk Bisnis Anda
 
 ---
 
-## 🖥️ **Pratinjau Aplikasi**  
+## 🖥️ **Pratinjau Aplikasi** 
+
+
+![LOGIN](Login.png)  
+![REGISTER](Register.png)  
 ![INVENTORYKU](Screenshot.png)  
 
 ---
