@@ -7,7 +7,7 @@ Berikut adalah contoh isi **README.md** untuk aplikasi **INVENTORYKU** berdasark
 **INVENTORYKU** adalah aplikasi manajemen inventaris yang dirancang untuk mengelola data barang, barang masuk, barang keluar, dan informasi barang secara efisien. Aplikasi ini cocok untuk kebutuhan bisnis atau organisasi yang membutuhkan sistem inventaris sederhana namun efektif.
 
 ## 📷 Tampilan Aplikasi
-![INVENTORYKU](Screenshot 2024-11-21 222036.png)
+![INVENTORYKU](Screenshot.png)
 
 ## ✨ Fitur Utama
 1. **Dashboard**  
