@@ -24,6 +24,7 @@ Solusi Manajemen Inventaris Modern untuk Bisnis Anda
 - [💡 Kenapa Memilih INVENTORYKU?](#-kenapa-memilih-inventoryku)  
 - [🤝 Kontribusi](#-kontribusi)  
 - [📞 Kontak](#-kontak)  
+- [🛠️ Tim Pengembang](#%EF%B8%8F-tim-pengembang)  
 
 ---
 
@@ -115,3 +116,21 @@ Jika Anda memiliki pertanyaan atau masalah terkait aplikasi, silakan hubungi kam
 
 ---
 
+## 🛠️ **Tim Pengembang**  
+### 📋 **Daftar Pengembang**  
+1. **M Iqbal Fatkhul Hikam**  
+   - **NPM:** 2023310004  
+
+2. **Ahkmad Kholil Baidhawi**  
+   - **NPM:** 2023310091  
+
+3. **Destrian Adi Pamungkas**  
+   - **NPM:** 2023310013  
+
+4. **Muhammad Haikal Saifullah**  
+   - **NPM:** 2023310072  
+
+5. **Rangga Dwi Satria**  
+   - **NPM:** 2023310057  
+
+---
